@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Web Development**
 
-- 👨‍💻 All of my projects are available at https://github.com/SlenderShield/JetBrains_Project
+- 👨‍💻 All of my projects are available at <a href="https://github.com/SlenderShield/JetBrains_Project" target="blank"> Project </a>
 
 - 💬 Ask me about **Python**
 
