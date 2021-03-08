@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Java, Web Development**
 
-- 👨‍💻 All of my projects are available at [@slendershield](@slendershield)
+- 👨‍💻 All of my projects are available at [@slendershield](JetBrains_Project)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **ksmuralidhara0@gmail.com**
-
-- ⚡ Fun fact **Gain more knowledge from self study than from class**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
