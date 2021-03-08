@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Web Development**
 
-- 👨‍💻 All of my projects are available at [@slendershield](JetBrains_Project)
+- 👨‍💻 All of my projects are available at https://github.com/SlenderShield/JetBrains_Project
 
 - 💬 Ask me about **Python**
 
