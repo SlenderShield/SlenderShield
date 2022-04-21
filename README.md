@@ -4,7 +4,7 @@ Hi 👋 My name is Muralidhara Bhat KS
 Web Developer and UX Designer
 -----------------------------
 
-I am a final-year student at the Government Engineering College affiliated with VTU studying Computer Science and Engineering. I am a skilled Web developer who has strong skills in **Front-end** and learning **Back-end development** who has experience in the languages like *JavaScript, CSS, HTML, Python, C, C++* etc while continuing to increase my knowledge by learning *ReactJS, Node.js, MongoDB, MySQL* etc. I have experience in ***wireframeing and prototyping***
+I am a final-year student at the Government Engineering College affiliated with VTU studying Computer Science and Engineering. I am a skilled Web developer who has strong skills in **Front-end** and also learning **Back-end development** who has experience in the languages like *JavaScript, CSS, HTML, Python, C, C++* etc while continuing to increase my knowledge by learning *ReactJS, Node.js, MongoDB, MySQL* etc. I have experience in ***wireframeing and prototyping***
 
 * 🌍  I'm based in *Karnataka, India*
 * ✉️  You can contact me at [ksmuralidhara0@gmail.com](mailto:ksmuralidhara0@gmail.com)
