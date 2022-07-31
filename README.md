@@ -5,7 +5,7 @@ Web Developer and UX Designer
 -----------------------------
 
 Hello, I'm Muralidhara.
-I graduated from the Government Engineering College Kushalnagar with a degree in Computer Science. Throughout the years of learning, I have gained experience in the fields of Front End and Back End development. I have acquired the skills like HTML, CSS, JavaScript, Bootstrap, React, and for the back end Node, Express, GoLang, Python, and finally MySQL, MongoDB, with version control system Git & GitHub.
+I graduated from the Government Engineering College Kushalnagar with a degree in Computer Science. Throughout the years of learning, I have gained experience in the fields of Front End and Back End development. I have acquired the skills like HTML, CSS, JavaScript, Bootstrap, React, and for the back end Node, Express, GoLang, Python ie. Django and finally MySQL, MongoDB, with version control system Git & GitHub.
 Let's connect, looking forward to hearing from you.
 
 * 🌍  I'm based in *Karnataka, India*
