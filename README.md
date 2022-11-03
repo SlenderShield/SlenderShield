@@ -1,7 +1,7 @@
 Hi 👋 My name is Muralidhara Bhat KS
 ====================================
 
-Web Developer and UX Designer
+Web Developer
 -----------------------------
 
 Hi, I'm Muralidhara. 
