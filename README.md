@@ -53,7 +53,3 @@ src="https://img.shields.io/github/followers/slendershield?logo=github&style=for
 <a href="http://www.github.com/slendershield"><img src="https://activity-graph.herokuapp.com/graph?username=slendershield&bg_color=171717&color=3382ed&line=22c55e&point=3382ed&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/slendershield" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slendershield&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=22c55e&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/slendershield"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
