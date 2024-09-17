@@ -12,7 +12,7 @@ Let's connect. Looking forward to hearing from you.
 * 🌍  I'm based in *Karnataka, India*
 * ✉️  You can contact me at [ksmuralidhara0@gmail.com](mailto:ksmuralidhara0@gmail.com)
 * 🧠  I'm learning *React*
-* 
+* Jack of all trades, master of none.
 <a href="https://www.twitter.com/myself_MDB" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/myself_MDB?logo=twitter&style=for-the-badge&color=22c55e&labelColor=171717"
 /></a><a href="https://www.github.com/slendershield" target="_blank" rel="noreferrer"><img
