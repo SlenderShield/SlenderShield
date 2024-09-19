@@ -1,18 +1,19 @@
-Hi 👋 My name is Muralidhara Bhat KS
-====================================
-
-Web Developer
+# Hi 👋 My name is Muralidhara Bhat KS  
+====================================  
+## Full-Stack Web Developer  
 -----------------------------
 
-Hi, I'm Muralidhara. 
-I have experience of both front-end and back-end development. I am skilled in HTML, CSS, JavaScript, Bootstrap, React, Python for the backend via the Django framework, and MySQL, MongoDB with version control systems Git and GitHub.
+Hello, I'm Muralidhara, a versatile web developer with experience in both front-end and back-end development. I specialize in building dynamic and scalable applications using modern technologies like **React.js**, **Node.js**, and **MongoDB**. I’ve worked on projects ranging from e-commerce platforms to restaurant management apps, combining **React** for the frontend and various backends like **Node.js**, **Java (Spring Boot)**, and **Python (Django)**.
 
-Let's connect. Looking forward to hearing from you.
+I have a solid foundation in **HTML**, **CSS**, **JavaScript**, and frameworks like **Bootstrap**, along with proficiency in database systems like **MySQL**, **MongoDB**, and **PostgreSQL**. With hands-on experience in CI/CD pipelines, automated testing, and deployment, I'm passionate about creating seamless, user-friendly web experiences.
 
-* 🌍  I'm based in *Karnataka, India*
-* ✉️  You can contact me at [ksmuralidhara0@gmail.com](mailto:ksmuralidhara0@gmail.com)
-* 🧠  I'm learning *React*
-* Jack of all trades, master of none.
+Let's connect! Looking forward to collaborating and sharing ideas.
+
+* 🌍  Based in Karnataka, India  
+* ✉️  You can reach me at [ksmuralidhara0@gmail.com](mailto:ksmuralidhara0@gmail.com)  
+* 🧠  Currently learning advanced **React.js** techniques  
+* "Jack of all trades, constantly mastering new ones"
+
 <a href="https://www.twitter.com/myself_MDB" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/myself_MDB?logo=twitter&style=for-the-badge&color=22c55e&labelColor=171717"
 /></a><a href="https://www.github.com/slendershield" target="_blank" rel="noreferrer"><img
