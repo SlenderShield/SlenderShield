@@ -1,6 +1,6 @@
 # Hi 👋 My name is Muralidhara Bhat KS  
 ====================================  
-## Full-Stack Web Developer  
+## Full-Stack Developer  
 -----------------------------
 
 Hello, I'm Muralidhara, a versatile web developer with experience in both front-end and back-end development. I specialize in building dynamic and scalable applications using modern technologies like **React.js**, **Node.js**, and **MongoDB**. I’ve worked on projects ranging from e-commerce platforms to restaurant management apps, combining **React** for the frontend and various backends like **Node.js**, **Java (Spring Boot)**, and **Python (Django)**.
