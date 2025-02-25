@@ -19,7 +19,7 @@ My expertise spans both front-end and back-end development, allowing me to deliv
 - MongoDB, MySQL, PostgreSQL, Redis
 
 ### Version Control & Deployment:
-- Git, CI/CD, Docker, RESTful APIs, Docker, Kubernetes 
+- Git, CI/CD, Docker, RESTful APIs, Kubernetes 
 
 ---
 
