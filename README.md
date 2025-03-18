@@ -38,7 +38,7 @@ A comprehensive healthcare platform designed to streamline patient management, a
 ### Akre – Real Estate Management Platform
 A powerful real estate management web application that helps users buy, sell their properties efficiently using **MERN Stack** i.e **MongoDB**, **Express.js**, **React.js**, and a responsive **Node.js** front end.
 
-🔗 **[GitHub Repo](https://github.com/akrenow/)** | 🔗 **[Live Demo]((https://akrenow.in/))**
+🔗 **[GitHub Repo](https://github.com/akrenow/)** | 🔗 **[Live Demo](https://akrenow.in/)**
 
 **Key Features:**
 - User-friendly dashboard for property listing and searching
