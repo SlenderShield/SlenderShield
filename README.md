@@ -31,7 +31,7 @@ My expertise spans both front-end and back-end development, allowing me to deliv
 ### MediConnect – Healthcare Management System
 A comprehensive healthcare platform designed to streamline patient management, appointment scheduling, and medical records. Built with **React.js**, **Spring Boot**, and **MongoDB**, it ensures secure data handling and efficient communication between doctors and patients.
 
-🔗 **[GitHub Repo](https://github.com/SlenderShield/MediConnect)** | 🔗 **[Live Demo](link-to-demo)**
+🔗 **[GitHub Repo](https://github.com/SlenderShield/MediConnect)**
 
 **Key Features:**
 - Secure patient authentication and role-based access control
@@ -41,7 +41,7 @@ A comprehensive healthcare platform designed to streamline patient management, a
 ### Akre – Real Estate Management Platform
 A powerful real estate management web application that helps users buy, sell their properties efficiently using **MERN Stack** i.e **MongoDB**, **Express.js**, **React.js**, and a responsive **Node.js** front end.
 
-🔗 **[GitHub Repo](https://github.com/akrenow/)** | 🔗 **[Live Demo](https://akrenow.in/)**
+🔗 **[Live Demo](https://akrenow.in/)**
 
 **Key Features:**
 - User-friendly dashboard for property listing and searching
