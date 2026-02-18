@@ -10,13 +10,13 @@ My expertise spans both front-end and back-end development, allowing me to deliv
 ## 🔧 Tech Stack
 
 ### Programming Languages:
-- Java, JavaScript, TypeScript, Cpp, SQL.
+- Java, JavaScript, TypeScript, SQL.
 
 ### Front-end:
 - React.js, HTML5, CSS3, Bootstrap, Tailwind CSS, Redux.
 
 ### Back-end:
-- Node.js, Express.js, Spring, Spring Boot.
+- Spring, Spring Boot, Quarkus, Axon Framework.
 
 ### Databases:
 - MongoDB, MySQL, PostgreSQL, Redis.
