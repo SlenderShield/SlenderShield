@@ -1,81 +1,64 @@
 # Hi 👋 I'm Muralidhara Bhat KS
 
-## Full-Stack Developer | Java, Spring Boot, JavaScript, React.js, Node.js
+### Backend-Focused Full-Stack Engineer | Distributed Systems | Java, Spring Boot, Kafka
 
-Hello, I'm Muralidhara, a passionate full-stack developer based in Karnataka, India. I specialize in building robust and scalable web applications using modern technologies. 
-My expertise spans both front-end and back-end development, allowing me to deliver comprehensive solutions.
-
----
-
-## 🔧 Tech Stack
-
-### Programming Languages:
-- Java, JavaScript, TypeScript, SQL.
-
-### Front-end:
-- React.js, HTML5, CSS3, Bootstrap, Tailwind CSS, Redux.
-
-### Back-end:
-- Spring, Spring Boot, Quarkus, Axon Framework.
-
-### Databases:
-- MongoDB, MySQL, PostgreSQL, Redis.
-
-### Version Control & Deployment:
-- Git, CI/CD, Docker, RESTful APIs, Kubernetes. 
+Backend-focused full-stack engineer with experience building scalable, event-driven systems using modern backend technologies, while also delivering end-to-end features across the stack.
 
 ---
 
-## 🚀 Projects
+## 🔧 Core Expertise
 
-### MediConnect – Healthcare Management System
-A comprehensive healthcare platform designed to streamline patient management, appointment scheduling, and medical records. Built with **React.js**, **Spring Boot**, and **MongoDB**, it ensures secure data handling and efficient communication between doctors and patients.
-
-🔗 **[GitHub Repo](https://github.com/SlenderShield/MediConnect)**
-
-**Key Features:**
-- Secure patient authentication and role-based access control
-- Online appointment booking and real-time notifications
-- Medical history tracking and digital prescriptions
-
-### Akre – Real Estate Management Platform
-A powerful real estate management web application that helps users buy, sell their properties efficiently using **MERN Stack** i.e **MongoDB**, **Express.js**, **React.js**, and a responsive **Node.js** front end.
-
-🔗 **[Live Demo](https://akrenow.in/)**
-
-**Key Features:**
-- User-friendly dashboard for property listing and searching
-- Secure communication channels between buyers and sellers
-- Advanced filtering and search options
+- **Languages:** Java, C++, JavaScript, TypeScript  
+- **Backend & Systems:** Spring Boot, Microservices, Distributed Systems, REST APIs, Asynchronous Processing  
+- **Frontend:** React.js, Redux, Tailwind CSS  
+- **Messaging:** Apache Kafka, RabbitMQ  
+- **Databases & Caching:** PostgreSQL, MongoDB, Redis  
+- **Cloud & DevOps:** Docker, Kubernetes, AWS  
+- **Observability:** Prometheus, Grafana  
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
-[![Muralidhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=slendershield&show_icons=true&theme=dark)](https://github.com/slendershield)
+### 🏥 MediConnect — Distributed Healthcare Platform
+🔗 https://github.com/SlenderShield/MediConnect  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slendershield&layout=compact&theme=dark)](https://github.com/slendershield)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slendershield&theme=dark)](https://github.com/slendershield)
-
----
-
-## 📚 Currently Learning
-- Advanced React.js techniques for performance optimization and scalability.
-- System design and microservices architecture.
+- Architected a microservices platform using **Spring Boot + Kafka**
+- Designed event-driven workflows processing **1K+ events/sec**
+- Implemented **JWT + RBAC** for secure multi-service communication
+- Deployed on **Kubernetes** with autoscaling (500+ concurrent users)
+- Integrated **Resilience4j** for fault tolerance and failure isolation
 
 ---
 
-## 💬 Connect with Me
+### ☕ Cafe Order Management System — Event-Driven Microservices
+🔗 https://github.com/SlenderShield/CafeOrderMS  
 
-📧 Email: [ksmuralidhara0@gmail.com](mailto:ksmuralidhara0@gmail.com)
-💼 LinkedIn: [linkedin.com/in/ksmuralidhara0](https://www.linkedin.com/in/ksmuralidhara0)
-🐦 Twitter: [twitter.com/myself_MDB](https://www.twitter.com/myself_MDB)
-📌 GitHub: [github.com/slendershield](https://www.github.com/slendershield)
+- Built distributed system using **Kafka-based asynchronous workflows**
+- Implemented **SAGA pattern** for distributed transactions
+- Designed scalable messaging flows handling concurrent order processing
+- Built end-to-end features including backend services and frontend integration
 
 ---
 
-## 💡 About Me
-"Jack of all trades, constantly mastering new ones." I'm always eager to learn and explore new technologies to enhance my skills and build innovative solutions.
+## 🧠 What I Focus On
 
-🚀 Passionate about coding, problem-solving, and creating impactful software solutions. Let's connect and build something amazing together! 😃
+- Designing scalable backend systems  
+- Building event-driven architectures  
+- Solving performance and reliability problems  
+- Delivering complete end-to-end features when needed  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/ksmuralidhara0  
+- Email: ksmuralidhara0@gmail.com  
+- Portfolio: https://muralidharabhat.in  
+
+---
+
+## ⚡ Currently Exploring
+
+- Advanced system design  
+- Distributed system patterns (rate limiting, caching, scaling)  
